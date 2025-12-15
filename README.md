@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pandu-rachakonda)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/pandu0987)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:pandurachakonda21@gmail.com)
 
 </div>
 
@@ -53,3 +53,88 @@
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### 🧪 Data Processing / ETL
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-FFB300?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+</p>
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</p>
+
+---
+
+## 💼 *Internships & Experience*
+
+| Role | Organization | Duration |
+|------|---------------|-----------|
+| 📊 *Junior Analyist Intern* | Vangrove Tech | Nov 2025 – Present |
+
+---
+### 🧠 Data Analytics Skills
+
+🧩 *Data Handling:* Pandas, NumPy.\
+📊 *Visualization:* Matplotlib, Seaborn, Plotly.\
+🗄️ *Databases:* MySQL, SQLite SQLite.\
+🤖 *Machine Learning (Basics):* Scikit-learn.\
+📈 *Dashboard Tools:* Power BI, Excel Analytics.\
+📘 *Reporting:* Jupyter Notebook, Google Colab.
+
+---
+### 🏆 Achievements & Certifications
+* Certification of completion of Python from Udemy.\
+💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
+  build end-to-end web applications.\
+📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
+  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
+💻 *Java Developer Intern* (Elevate Labs | Sep 2025 – Nov 2025)
+  
+
+---
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pandu0987&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pandu0987&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandu0987theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+
+[![](https://visitcount.itsvg.in/api?id=pandu0987&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 *GitHub Trophies*
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pandu0987&theme=onestar"/>
+</p>
+
+---
+
+## 📬 *Connect With Me*
+
+📧 [laxmankonukati93@gmail.com](mailto:pandurachakonda21@gmail.com)  
+📞 [+91 7337353516 ]   
+💼 [LinkedIn](www.linkedin.com/in/pandu-rachakonda)  
+🐙 [GitHub](https://github.com/pandu0987)
+
+---
+
+<div align="center">
+
+⭐ If you like my work, don’t forget to star my repositories! 🌟
