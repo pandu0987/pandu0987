@@ -16,16 +16,16 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.\
-💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
+🎓 **B.Tech in Electronics and Communication Engineering** from **Sri Mittapalli College of Engineering - Guntur** with a CGPA of **7.5**.\
+💡  passionate **Python & Data science** learner with interest in **data visualization, machine learning,Deep                   larning(NLP)**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
 💡 Open to collaborate on **data analytics and automation projects**.\
-🚀 Always curious, always learning — from building APIs to training AI models!.\
-📫 Reach me at **laxmankonukati93@gmail.com**!
+🚀 Continuously learning and experimenting with end-to-end Data Science pipelines — from data collection to model -             deployment..\
+📫 Reach me at **pandurachakonda21@gmail.com**!
 
 ---
-## 🚀 **Tech Stack:**
+## 🚀 **Data Science Tech Stack:**
 
 ## 🧠 Core Languages
 <p align="left">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### 📊 Data Analysis & Manipulation
+### 📊 Data Science & Scientific Computing
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -44,25 +44,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Seaborn-76B900?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### 🧪 Data Processing / ETL
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Spark-E35A16?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-FFB300?style=for-the-badge&logo=apache-hadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/MsSQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  
 </p>
 
 ### 🛠️ Tools
@@ -83,27 +71,35 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 *Junior Analyist Intern* | Vangrove Tech | Nov 2025 – Present |
+| 📊 *Data science Intern* | Naresh i Technologies| June 2025 – Present |
 
 ---
-### 🧠 Data Analytics Skills
+### 🤖**Machine Learning**
 
-🧩 *Data Handling:* Pandas, NumPy.\
-📊 *Visualization:* Matplotlib, Seaborn, Plotly.\
-🗄️ *Databases:* MySQL, SQLite SQLite.\
-🤖 *Machine Learning (Basics):* Scikit-learn.\
-📈 *Dashboard Tools:* Power BI, Excel Analytics.\
-📘 *Reporting:* Jupyter Notebook, Google Colab.
+✔ *Linear & Logistic Regression*.\
+✔ Decision Trees, Random Forest.\
+✔ KNN, SVM.\
+✔ Clustering (K-Means, Hierarchical).\
+✔ Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC).\
+✔ Bias–Variance tradeoff, Cross-validation.\
+
+### 🧠 Deep Learning & NLP
+
+✔ *Neural Networks (ANN)*\
+✔ *Activation functions & loss functions*\
+✔ *Backpropagation & Gradient Descent*\
+✔ *Text preprocessing & tokenization*\
+✔ *Word embeddings (TF-IDF, Word2Vec basics)*\
+✔ *NLP classification pipelines*\
 
 ---
 ### 🏆 Achievements & Certifications
-* Certification of completion of Python from Udemy.\
-💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
-  build end-to-end web applications.\
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
-  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
-💻 *Java Developer Intern* (Elevate Labs | Sep 2025 – Nov 2025)
-  
+
+🐍 Python Programming Certification(kaggle) – Completed comprehensive Python training covering data structures, functions, OOPs, and problem-solving using Python.
+
+📊 Machine Learning Certification (Kaggle) – Successfully completed multiple Python & Machine Learning problem-solving challenges on Kaggle, including data cleaning, feature engineering, and model building.
+
+📈 Hands-on Kaggle Practice – Solved real-world datasets on Kaggle involving EDA, supervised learning models, and performance evaluation, strengthening practical Data Science skills.
 
 ---
 
@@ -128,7 +124,7 @@
 
 ## 📬 *Connect With Me*
 
-📧 [laxmankonukati93@gmail.com](mailto:pandurachakonda21@gmail.com)  
+📧 [Mail to:pandurachakonda21@gmail.com]  
 📞 [+91 7337353516 ]   
 💼 [LinkedIn](www.linkedin.com/in/pandu-rachakonda)  
 🐙 [GitHub](https://github.com/pandu0987)
