@@ -20,7 +20,7 @@
 💡  passionate **Python & Data science** learner with interest in **data visualization, machine learning,Deep                   larning(NLP)**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
-💡 Open to collaborate on **data analytics and automation projects**.\
+💡 Open to collaborate on Data Science, Machine Learning, and Deep Learning projects, including predictive modeling, NLP, and real-world problem solving using data.\
 🚀 Continuously learning and experimenting with end-to-end Data Science pipelines — from data collection to model -             deployment..\
 📫 Reach me at **pandurachakonda21@gmail.com**!
 
